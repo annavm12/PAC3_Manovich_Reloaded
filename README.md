@@ -63,7 +63,7 @@ La impressió 3D de carn sintètica representa una hibridació tecnològica i cu
 ---
 
 ### **Bibliografia**
-OpenAI. (2024, 18 de desembre). ChatGPT. https://openai.com
+OpenAI. (2024, desembre). ChatGPT. https://openai.com
 - Correcció i millora del vocabulari del text.
 - Idea sobre la gastronomia molecular amb tecnologies digitals.
 - Guía sobre com redactar el text en llenguatge Markdown.
