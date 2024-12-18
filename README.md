@@ -60,3 +60,13 @@ La impressió 3D de carn sintètica representa una hibridació tecnològica i cu
 - [Noticia sobre carn impresa](https://thefoodtech.com/tecnologia-de-los-alimentos/innovaciones-en-la-produccion-de-carne-cultivo-celular-impresion-3d-y-otras-alternativas/)
 - [Web Aleph Farms](https://aleph-farms.com/)
 
+---
+
+### **Bibliografia**
+OpenAI. (2024, 18 de desembre). ChatGPT. https://openai.com
+- Correcció i millora del vocabulari del text.
+- Idea sobre la gastronomia molecular amb tecnologies digitals.
+- Guía sobre com redactar el text en llenguatge Markdown.
+
+Manovich, Lev. (2013). *El software toma el mando*, Capítulos 4 y 5. Barcelona: Editorial UOC.
+
