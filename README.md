@@ -38,7 +38,7 @@ La gastronomia molecular amb tecnologies digitals exemplifica perfectament la co
 ### **Descripció del cas**
 L'ús de la impressió 3D per crear carn sintètica és un avenç recent que combina biotecnologia i tecnologia digital. Aquesta pràctica permet crear carn cultivada a partir de cèl·lules animals sense necessitat de criar ni sacrificar animals, amb un enfocament més sostenible i ètic. Aquesta tecnologia ofereix solucions a alguns dels principals reptes globals, com ara la petjada ambiental de la ramaderia intensiva i la seguretat alimentària.
 
-![Bistec imprès en 3D per Aleph Farms[./Aleph-Farms-828x548.jpg]
+![Bistec imprès en 3D per Aleph Farms[[./Aleph-Farms-828x548.jpg](https://github.com/annavm12/PAC3_Manovich_Reloaded/blob/main/Aleph-Farms-828x548.jpg)]
 
 Un exemple notable és **Aleph Farms**, una empresa que ha desenvolupat bistecs impresos en 3D utilitzant cèl·lules de vaca cultivades en laboratoris. Aquest procés no només imita la textura i sabor de la carn tradicional, sinó que també redueix dràsticament l'impacte ambiental associat a la ramaderia. A més, empreses com **Redefine Meat** estan liderant el desenvolupament de "carn" vegetal impresa en 3D que replica les fibres musculars, aportant una alternativa més accessible per als consumidors que desitgen reduir el consum de carn animal.
 
