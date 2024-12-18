@@ -17,6 +17,8 @@ Un cas paradigmàtic és el restaurant **Sublimotion (Ibiza)**, que utilitza RA 
 
 Altres exemples inclouen l'ús de sensors i aplicacions mòbils per modificar en temps real els sabors percebuts a través de la manipulació de l'entorn, com ara el color de la llum o els sons ambientals. Aquest tipus de tecnologies s'han començat a implementar en restaurants d'avantguarda arreu del món, redefinint el concepte d'un àpat tradicional.
 
+![Restaurant Sublimotion](https://github.com/annavm12/PAC3_Manovich_Reloaded/blob/main/sublimotion-welcome-to-ibiza-jpg2_-scaled-1.jpg)
+
 ### **Anàlisi segons Manovich**
 Amb "les ulleres de Manovich", aquesta pràctica es pot veure com un exemple clar d'hibridació tecnològica:
 
@@ -53,4 +55,8 @@ Seguint els principis d'hibridació de Manovich:
 
 ### **Conclusió**
 La impressió 3D de carn sintètica representa una hibridació tecnològica i cultural amb implicacions profundes per al futur del menjar. Aquesta tecnologia no només aborda qüestions pràctiques com la sostenibilitat, sinó que també redefineix el significat cultural de consumir carn en el segle XXI.
+
+### **Enllaços d'interès**
+- [Noticia sobre carn impresa](https://thefoodtech.com/tecnologia-de-los-alimentos/innovaciones-en-la-produccion-de-carne-cultivo-celular-impresion-3d-y-otras-alternativas/)
+- [Web Aleph Farms](https://aleph-farms.com/)
 
